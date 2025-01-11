@@ -1,0 +1,24 @@
+.material-icons {
+    vertical-align: middle;
+        }
+    .navbar{
+        background-color: orangered;
+    }
+   .footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: orangered;
+color: white;
+
+}
+    .btn-primary,
+    .btn-primary:hover,
+    .btn-primary:active,
+    .btn-primary:visited,
+    .btn-primary:focus {
+    background-color: orangered;
+    border-color: orangered;
+        }
+  
